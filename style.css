@@ -171,7 +171,7 @@ margin-top:-10px; width:38%;
   border-bottom: 3px solid black;
   margin-bottom: -3px;
 }
-@media only screen and (max-width:600px){
+@media only screen and (max-width:600px) and (orientation:landscape){
   .big{
     font-size: 70px;
     color: rgb(238, 198, 0);
